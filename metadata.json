@@ -1,0 +1,6 @@
+{
+  "name": "Crypto AI Friend",
+  "description": "AI-powered cryptocurrency market analysis and trading assistant with live market data, indicators, and friendly chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
